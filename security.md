@@ -23,7 +23,11 @@
 **Training:** Users must know what policies and procedures say to follow them
 
 ## PDR
-Prevent, Detect, and Responsed 
+**Prevent:** Authentication, firewalls
+
+**Detect:** Logging/auditing, IDS/IPS
+
+**Responsed:** Incident response plans, backup/recovery
 
 ## Risk Management 
 
