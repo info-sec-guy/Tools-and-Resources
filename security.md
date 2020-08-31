@@ -31,9 +31,9 @@
 
 ## Risk Management 
 
-**Threat:** Anything that can do anything bad to your staff
+**Threat:** Any event that can cause an undesirable outcome
  
-**Vulnerability:** A weakness in your system or anything that allows a threat to happen
+**Vulnerability:** A weakness in a system that can be exploited
 
 **Likelihood and impact:** How likely is it to happen and how bad will it be?
 
