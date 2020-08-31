@@ -35,6 +35,9 @@
  
 **Vulnerability:** A weakness in a system that can be exploited
 
+`Risk = Threat x Vulnerability`
+
 **Likelihood and impact:** How likely is it to happen and how bad will it be?
 
 **Countermeasure/safeguard:** Anything to mitigate a vulnerability
+
