@@ -17,7 +17,7 @@
 * After targeting specific vulns do they decline? 
 
 ## Incident Metrics That Matter
-Measuring Incidents
+* Measuring Incidents
 * Time to resolve
 * Time to detect
 * Time to diagnose as incident or just event (triage)
